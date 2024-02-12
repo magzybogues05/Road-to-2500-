@@ -1,0 +1,5 @@
+# Weekly Contest-298
+1. [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/): [Solution with explanation](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/discuss/4715387/Simple-Greedy-solution-(c%2B%2B))
+2. [Sum of Numbers With Units Digit K](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/): [Solution with explanation](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/discuss/4715445/Bottom-up-Dp-solution-in-c%2B%2B)
+3. [Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/): [Solution with explanation](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/discuss/4715466/bottom-up-dp-solution-O(N)-time-and-space)
+4. [Selling Pieces of Wood](https://leetcode.com/problems/selling-pieces-of-wood/): [Solution with explanation](https://leetcode.com/problems/selling-pieces-of-wood/discuss/4715503/top-down-dp-solution-(2d-DP)-in-cpp-(N*M)-time-and-space-complexity)
